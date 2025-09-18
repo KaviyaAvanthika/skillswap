@@ -203,7 +203,7 @@ export default function SkillSwap() {
   return (
     <div
       style={{
-        height: "844px",
+        // height: "844px",
         // width: "390px",
         backgroundColor: "#c4d3ff",
         // border: "16px solid black",
@@ -243,7 +243,7 @@ export default function SkillSwap() {
       {/* bottom nav */}
       <nav
         style={{
-          marginTop: "auto",
+          marginTop: "40px",
            marginLeft: "20px",
           marginRight: "20px",
           marginBottom: "20px",
