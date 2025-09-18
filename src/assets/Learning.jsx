@@ -9,7 +9,7 @@ const App = () => {
   const containerStyle = {
 
     // width: "390px", // iPhone 13/14 screen width in px
-    // height: "844px", // iPhone 13/14 screen height in px
+    height: "844px", // iPhone 13/14 screen height in px
     // margin: "50px auto",
     // border: "16px solid black", // phone border
     // borderRadius: "50px", // curved edges
@@ -75,7 +75,7 @@ const App = () => {
 
   const bottomNavStyle = {
     position: 'absolute',
-    bottom: '40px',
+    bottom: '20px',
     left: '20px',
     right: '20px',
     backgroundColor: 'white',
